@@ -1,0 +1,5 @@
+Ova se pravi vaka i vaka ...
+
+git add .
+
+git commit -m "Enter message..."
